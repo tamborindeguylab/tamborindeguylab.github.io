@@ -10,11 +10,10 @@ sections:
       text: |
         People
       user_groups:
-        - Principal Investigators
-        - Researchers
-        - Grad Students
-        - Administration
-        - Visitors
+        - Principal Investigator
+        - Postdoctoral Researchers
+        - Graduate Students
+        - Undergraduate Students
         - Alumni
       sort_by: Params.last_name
       sort_ascending: true
