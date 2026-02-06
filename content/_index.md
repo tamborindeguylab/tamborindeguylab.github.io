@@ -17,7 +17,7 @@ sections:
         filename: welcome.jpg
     design:
       columns: "2"
----
+
   
   - block: collection
     content:
