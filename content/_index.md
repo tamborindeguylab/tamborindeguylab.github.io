@@ -13,12 +13,10 @@ sections:
       text: |
         <br>
         The **Tamborindeguy Lab** investigates insect–pathogen–plant interactions with an emphasis on vector-borne plant pathogens, host manipulation, and mechanisms of transmission.
-      # ✅ 여기 중요: image를 content 안이 아니라, 아래처럼 “안정된 키”로 넣어줌
       image:
         filename: /media/23.jpg
         alt_text: Lab photo
     design:
-      # ✅ 이거 넣으면 텍스트+이미지 레이아웃이 잘 잡힘 (버전 호환 좋음)
       columns: "2"
 ---
   
