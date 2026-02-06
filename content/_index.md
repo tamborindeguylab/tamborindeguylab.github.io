@@ -1,11 +1,3 @@
-design:
-  background:
-    image:
-      filename: 23.jpg
-      filters:
-        brightness: 1
-    text_color_light: false
-
 ---
 # Leave the homepage title empty to use the site title
 title:
