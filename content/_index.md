@@ -11,7 +11,7 @@ sections:
         Dr. Tamborindeguy
         Laboratory
       image:
-        filename: /media/23.JPG
+        filename: /media/23.jpg
       text: |
         <br>
         
