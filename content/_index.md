@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Dr. Cecilia Tamborindeguy
+        Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Tamborindeguy Lab** investigates insect–pathogen–plant interactions with an emphasis on vector-borne plant pathogens, host manipulation, and mechanisms of transmission.
   
   - block: collection
     content:
