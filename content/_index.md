@@ -11,7 +11,7 @@ sections:
         Dr. Cecilia Tamborindeguy
         Laboratory
       image:
-        filename: welcome.jpg
+        filename: 23.jpg
       text: |
         <br>
         
