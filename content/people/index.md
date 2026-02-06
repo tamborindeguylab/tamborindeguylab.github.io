@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: People
+      title: Meet The People
       text: |
         <div style="display:flex; gap:30px; align-items:flex-start; flex-wrap:wrap;">
           <div style="flex:1; min-width:260px;">
