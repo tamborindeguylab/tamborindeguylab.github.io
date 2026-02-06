@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Dr. Cecilia Tamborindeguy
+        Dr. Tamborindeguy
         Laboratory
       image:
         filename: 23.jpg
