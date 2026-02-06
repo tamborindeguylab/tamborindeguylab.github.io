@@ -14,7 +14,7 @@ sections:
         <br>
         The **Tamborindeguy Lab** investigates insect–pathogen–plant interactions with an emphasis on vector-borne plant pathogens, host manipulation, and mechanisms of transmission.
       image:
-        filename: /media/23.jpg
+        filename: welcome.jpg
         alt_text: Lab photo
     design:
       columns: "2"
